@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "613657644591",
+    "project_id": "accuease-5f660",
+    "storage_bucket": "accuease-5f660.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613657644591:android:46dd3699d5e972ac9f00da",
+        "android_client_info": {
+          "package_name": "com.accuease.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOZ1xzNUrLbrgichgPvFD2L6qMzxrfzKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
